@@ -8,3 +8,6 @@ Teste aula sobre diff
 uhauhauhauhauhauhauajajajjah
 
 hahahahahahahahahahahaha
+
+
+Inserir arquivos no repositorio remoto
